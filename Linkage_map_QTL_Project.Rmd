@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##Linkage map construction
 Load data and estimate pairwise recombination fractions
-To start with the analysis, we load the data (here, we are using the recombinant inbred line population Z001) using the function read.cross(), and estimate the pairwise recombination fractions (and their respective LOD scores) using the function est.rf():
+To start with the analysis, we load the data  using the function read.cross(), and estimate the pairwise recombination fractions (and their respective LOD scores) using the function est.rf():
 
 ```{r, warning = FALSE}
 library(qtl)
