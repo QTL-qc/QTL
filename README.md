@@ -16,11 +16,15 @@ QTL_for_QG.Rmd
 R Markdown file for phenotypic data quality checks and QTL mapping, utilizing the MetaPipe R package.
 
 Data Availability
+
 VRS-F2_map.csv
+
 Marker data file.
 
 VRS23.csv
+
 Phenotypic data file.
 
 maize.csv
+
 Combined phenotypic and marker data for the Maize NAM population.
