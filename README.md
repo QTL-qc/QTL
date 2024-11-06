@@ -4,6 +4,7 @@ Project Overview
 This repository contains scripts and data for performing linkage and QTL mapping using a Nested Association Mapping (NAM) population.
 
 Scripts
+
 Linkage_QTL_mappingProject.Rmd
 
 R Markdown file for QTL mapping, using the qtl package in R.
